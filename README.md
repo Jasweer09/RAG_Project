@@ -108,7 +108,8 @@ The choice of Gemma2-9b-it reflects a focus on leveraging state-of-the-art AI mo
    - Open the application in your browser.
    - Enter a query related to the LangChain documentation.
    - View the response and explore the document similarity search results.
-
+_Landing Page_
+![Screenshot](Interaction_page.png)
 ---
 
 ## 🌈 Future Enhancements
